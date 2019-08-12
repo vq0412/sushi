@@ -16393,4 +16393,14 @@ body {
 .was-validated .form-control:invalid, .form-control.is-invalid {
   background-position: right calc(0.375em + 0.1875rem) center;
 }
+
+@media screen and (min-width: 700px) {
+  #sitename {
+    margin-left: 1rem;
+  }
+}
+
+.nav-title {
+  font-size: 100% !important;
+}
 /*# sourceMappingURL=style.css.map */

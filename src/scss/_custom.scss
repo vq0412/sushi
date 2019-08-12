@@ -1,1 +1,11 @@
 // Here you can add other styles
+
+@media screen and (min-width: 700px) {
+  #sitename {
+	margin-left: 1rem
+	}
+}
+
+.nav-title {
+	font-size: 100% !important;
+}
